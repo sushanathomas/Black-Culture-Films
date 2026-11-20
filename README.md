@@ -79,3 +79,7 @@ Keep your actual connection string in `.env`. Do not commit that file or share y
 I used [FreeFrontend](https://freefrontend.com/) as a resource for button styles in my Black film application. I adapted the examples by changing the buttons’ shapes and border radius to fit my application's design.
 
 - **Buttons adapted:** Add Some Films, Search, Status, and Trash (delete film).
+
+## Author
+
+Sushana Thomas 
